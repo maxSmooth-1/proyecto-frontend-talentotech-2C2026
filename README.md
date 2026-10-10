@@ -1,1 +1,1 @@
-# proyecto-frontend-talentotech-2C2026
+Proyecto de Emprendimiento de Sahumerios
